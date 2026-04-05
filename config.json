@@ -1,0 +1,6 @@
+{
+  "target_ip": "157.20.83.101",
+  "target_port": 2288,
+  "status": "active",
+  "kill_switch": false
+}
